@@ -1,5 +1,5 @@
 ## Lab 1 - Introduction to AWS Identity and Access Management (IAM)
-## NAME : RAHUL RP
+## NAME : Rahul RP
 ## REGISTER NO: 212224240125
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
@@ -11,7 +11,7 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 
 ## Prerequisites
 - Basic understanding of cloud computing concepts  
-- AWS Academy Lab access 
+- AWS Academy Lab access  
 - Web browser with internet connectivity  
 
 
